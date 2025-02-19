@@ -10,7 +10,7 @@ Welcome to HealthGenie.AI 👩‍⚕️, your personalized AI-powered medical as
 
 ## Try it Out 
 
-**[Visit Site]() **
+**[Visit Site](https://heal-smart.vercel.app/)**
 
 ## Key Features  ✨✨
 
