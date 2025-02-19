@@ -28,7 +28,7 @@ Welcome to HealthGenie.AI 👩‍⚕️, your personalized AI-powered medical as
  
 - **Intuitive Design: 🎨** Ensure a seamless and intuitive design for easy navigation and interaction, enhancing the overall user experience.<br>
 
-- **Enhanced Accessibility 💻: **  Access healthcare recommendations and mental health support anytime, anywhere, through both web and mobile platforms.<br>
+- **Enhanced Accessibility 💻:**  Access healthcare recommendations and mental health support anytime, anywhere, through both web and mobile platforms.<br>
 
 - **Personalised Recommendations: 👍** Tailor healthcare suggestions based on symptom analysis and user ratings, ensuring efficient and effective care.<br>
 
