@@ -44,27 +44,29 @@ Welcome to HealthGenie.AI 👩‍⚕️, your personalized AI-powered medical as
 ## Demo
 
 ### Screenshots
-<div align="center">
-    Home Page
-    <img src="screenshots/home_page.png" alt="Home Page" width="380" height="225">
-    Symptom Analysis
-    <img src="screenshots/symptom_analysis.png" alt="Symptom Analysis" width="380" height="225">
-</div>
-<div align="center">
-    Analysis Result
-    <img src="screenshots/analysis_result.png" alt="Analysis Result" width="380" height="225">
-    AI Consultation
-    <img src="screenshots/ai_consultation.png" alt="AI Consultation" width="380" height="225">
-</div>
-<div align="center">
-    Mind-Bot Response
-    <img src="screenshots/mind_bot_response.png" alt="Mind-Bot Response" width="380" height="225">
-</div>
-<div align="center">
-    Doctor Appointment
-    <img src="screenshots/consult_doctor.png" alt="Consult Doctor" width="380" height="225">
-    <img src="screenshots/doctor_appointment.png" alt="Doctor Appointment" width="380" height="225">
-</div>
+**Home Page**
+
+<img src="https://github.com/user-attachments/assets/b1c9cb30-e592-4568-9ded-86e55c976a18" width="500">
+
+**Symptom Analysis**
+
+<img src="https://github.com/user-attachments/assets/8a7d939e-1cbc-4767-8d6b-861a44705209" width="500">
+
+**Analysis Result**
+
+<img src="https://github.com/user-attachments/assets/5f80e25a-c954-4539-b41f-e436f4ff1037" width="500">
+
+**AI Consultation**
+
+<img src="https://github.com/user-attachments/assets/bc0fca26-c83a-4cca-8673-64e97e78674b"  width="580">
+
+**Mind-Bot Response**
+
+<img src="https://github.com/user-attachments/assets/700122bb-a097-4fb6-ad99-51a67caf290b" width="500" >
+
+**Doctor Appointment**
+
+<img src="https://github.com/user-attachments/assets/8b9f8d67-d8a2-46f0-8db7-820fc0d22afe"  width="500">
 
 ## Design Idea & Approach 🚀
 
