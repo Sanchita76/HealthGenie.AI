@@ -1,4 +1,4 @@
-# HealthGenie.AI: Your Medical Assistant 👩‍⚕️
+# HealthGenie.AI: Your One-Stop Medical Assistant 👩‍⚕️
 <div align="center"> Your Health, Our Help</div>
   <br>
   <p align="center">
